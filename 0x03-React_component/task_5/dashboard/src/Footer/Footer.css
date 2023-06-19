@@ -1,0 +1,8 @@
+.App-footer{
+    border-top: 5px red solid;
+    min-height: 10vh;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
