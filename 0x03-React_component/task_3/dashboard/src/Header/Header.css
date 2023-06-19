@@ -1,0 +1,12 @@
+.App-header{
+    display: flex;
+    align-items: center;
+    color: red;
+    border-bottom: 5px red solid;
+    min-height: 10vh;
+    text-align: center;
+  }
+  .App-header img{
+    width: 200px;
+    height: 200px;
+  }
